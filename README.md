@@ -6,7 +6,7 @@ FilmeFlix é uma landing page interativa e moderna dedicada aos amantes de cinem
 
 ### Objetivo
 
-O objetivo deste projeto é criar uma interface atraente e funcional que ofereça aos usuários uma experiência imersiva para explorar e descobrir filmes. Com o uso da API do TMDb, a aplicação permite que os usuários vejam detalhes, classificações e imagens de filmes populares em tempo real, aprimorando o engajamento e o acesso rápido a informações relevantes.
+O objetivo deste projeto é criar uma interface atraente e funcional que ofereça aos usuários uma experiência imersiva para explorar e descobrir filmes. Com o uso da API do TMDB, a aplicação permite que os usuários vejam detalhes, classificações e imagens de filmes populares em tempo real, aprimorando o engajamento e o acesso rápido a informações relevantes.
 
 ### TECNOLOGIAS
 
