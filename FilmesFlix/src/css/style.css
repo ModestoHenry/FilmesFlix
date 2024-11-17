@@ -33,19 +33,19 @@ header {
 
 @keyframes slide {
     20% {
-        background-image: url(../assets/aranha.png);
+        background-image: url(../../assets/aranha.png);
     }
     20% {
-        background-image: url(../assets/e8.jpg);
+        background-image: url(../../assets/e8.jpg);
     }
     50% {
-        background-image: url(../assets/dedpool.jpeg);
+        background-image: url(../../assets/dedpool.jpeg);
     }
     70% {
-        background-image: url(../assets/aranha.png);
+        background-image: url(../../assets/aranha.png);
     }
     85% {
-        background-image: url(../assets/e8.jpg);
+        background-image: url(../../assets/e8.jpg);
     }
 }
 
@@ -163,7 +163,7 @@ header .logo img {
     align-items: center;
     flex-direction: column;
     padding: 100px;
-    background-image: url(../assets/aranha.png);
+    background-image: url(../../assets/aranha.png);
     background-size: cover;
     background-position: center;
     animation: slide 10s infinite;
